@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Mathdice 2.0 Menus/src"/>
+	<classpathentry kind="lib" path="Mathdice 2.0 Menus/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="Mathdice 2.0 Menus/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="Mathdice 2.0 Menus/miglayout15-swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpoga/Documents/DAM/Dam mac/DAM mac/Asignatura Programación/Javaprojectsgit/mysql-connector-java-5.1.42/mysql-connector-java-5.1.42-bin.jar"/>
+	<classpathentry kind="output" path="Mathdice 2.0 Menus/bin"/>
+</classpath>
